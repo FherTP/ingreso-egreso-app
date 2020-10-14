@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "expo-cf499": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "expo-cf499"
+        ]
+      }
+    }
+  }
+}
